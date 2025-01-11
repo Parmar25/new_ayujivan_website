@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.954ec17f.css",
-    "main.js": "/static/js/main.7a486864.js",
-    "index.html": "/index.html",
-    "main.954ec17f.css.map": "/static/css/main.954ec17f.css.map",
-    "main.7a486864.js.map": "/static/js/main.7a486864.js.map"
+    "main.css": "/new_ayujivan_website/static/css/main.954ec17f.css",
+    "main.js": "/new_ayujivan_website/static/js/main.7a486864.js",
+    "index.html": "/new_ayujivan_website/index.html",
+    "main.954ec17f.css.map": "/new_ayujivan_website/static/css/main.954ec17f.css.map",
+    "main.7a486864.js.map": "/new_ayujivan_website/static/js/main.7a486864.js.map"
   },
   "entrypoints": [
     "static/css/main.954ec17f.css",
