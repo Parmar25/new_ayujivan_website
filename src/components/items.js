@@ -17,7 +17,7 @@ const items = [
     price: 170,
     category: "hair",
     quentity: "Qty.100ml",
-    image: "images/hair oil.jpeg",
+    image: "images/Hair Oil.jpeg",
     description:
       "Ingridians : Amla, Shikakai, Bhringraj, Brahmi, Fenugreek, Nagarmoth, Henna, Jatamansi, Manjishta, Beheda, Jasood, Kalonji, Chanothi, Ashwagandha, Frankincense, Neem, Aloe Vera, Mint, Rosemary, Onion, Lotus, Rose, Coconut Oil, Shisham Oil , sesame oil, olive oil, castor oil",
     benifits:
@@ -173,24 +173,13 @@ const items = [
     price: 170,
     quentity: "Qty.100ml",
     category: "other",
-    image: "images/Natural Gulkand.jpeg",
+    image: "images/Natural gulkand.jpeg",
     description:
       "Ingridians : Amla, Shikakai, Bhringraj, Brahmi, Fenugreek, Nagarmoth, Henna, Jatamansi, Manjishta, Beheda, Jasood, Kalonji, Chanothi, Ashwagandha, Frankincense, Neem, Aloe Vera, Mint, Rosemary, Onion, Lotus, Rose, Coconut Oil, Shisham Oil , sesame oil, olive oil, castor oil",
     benifits:
       "Benifits : Prevent Hair Loss from the Roots , Bring New Hair , Increases Hair Growth , Cleans the Skin",
   },
-  {
-    id: "017",
-    name: " Natural Gulkand",
-    price: 170,
-    quentity: "Qty.100ml",
-    category: "Ayujivan",
-    image: "images/Natural Gulkand.jpeg",
-    description:
-      "Ingridians : Amla, Shikakai, Bhringraj, Brahmi, Fenugreek, Nagarmoth, Henna, Jatamansi, Manjishta, Beheda, Jasood, Kalonji, Chanothi, Ashwagandha, Frankincense, Neem, Aloe Vera, Mint, Rosemary, Onion, Lotus, Rose, Coconut Oil, Shisham Oil , sesame oil, olive oil, castor oil",
-    benifits:
-      "Benifits : Prevent Hair Loss from the Roots , Bring New Hair , Increases Hair Growth , Cleans the Skin",
-  },
+  
 ];
 
 export default items
